@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsalculate",
+        "uuid": 15484550,
+        "checksum": "hw11pn"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
